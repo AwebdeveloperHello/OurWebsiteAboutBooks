@@ -1,0 +1,642 @@
+
+.hello {
+    width: 2410px;
+    height: 100px;
+    background-color: rgb(172, 83, 255);
+    margin-top: -40px;
+    margin-left: -15px;
+    position: absolute;
+    
+}
+
+
+.name {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: bold;
+    position: relative;
+    font-style: italic;
+    margin-left: 30px;
+    margin-top: -1px;
+    
+    
+    
+}
+
+.books {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 300px;
+    margin-top: -90px;
+    position: relative;
+    text-decoration: none;
+  
+}
+
+.founders {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 500px;
+    margin-top: -108px;
+    position: relative;
+    text-decoration: none;
+    padding-right: 60px;
+    
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+.firstball {
+    width: 700px;
+    height: 400px;
+    margin-left: 1600px;
+    display: inline;
+}
+
+.secondball {
+    width: 700px;
+    height: 400px;
+    margin-left: 100px;
+    display: inline;
+}
+
+
+.about {
+    width: 600px;
+    font-size: 60px;
+    position: relative;
+    
+    margin-left: 1370px;
+    margin-top: 250px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to top, rgb(0, 0, 0), rgb(78, 78, 78));
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    box-shadow: 30px 30px 100px black;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-style: italic;
+    font-weight: bold;
+
+
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+
+
+
+.background {
+    width: 2395px;
+    height: 1100px;
+    background-color: rgb(88, 88, 88);
+    margin-top: 400px;
+    margin-left: -20px;
+    
+}
+
+
+.Dorian {
+    position: relative;
+    margin-top: -1100px;
+    margin-left: 1100px;
+    padding-left: -100px;
+    height: 1200px;
+    width: auto;
+}
+
+.BriefDorian {
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 670px;
+    position: relative;
+    font-size: 55px;
+    margin-top: -900px;
+    margin-left: 250px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+
+}
+
+.BriefHarari {
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 600px;
+   
+    font-size: 55px;
+    margin-top: 500px;
+    margin-left: 1450px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+
+.Harari1 {
+    height: 1000px;
+    margin-top: -900px;
+    margin-left: 120px;
+
+}
+
+
+
+
+
+.list {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 1100px;
+    margin-top: -108px;
+    position: relative;
+    text-decoration: none;
+    padding-right: 60px;
+    
+}
+
+
+.BackBooks {
+    background-color: rgb(72, 17, 124);
+}
+
+
+
+.firstball {
+    margin-top: 100px;
+}
+
+
+.secondball {
+    margin-top: 150px;
+    margin-right: 900px;
+    height: 350px;
+    width: auto;
+}
+
+
+.allballs {
+    height: 700px;
+    width: auto;
+    display: block;
+}
+
+
+.LinkToDorian {
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 600px;
+   
+    font-size: 55px;
+    margin-top: -550px;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+}
+
+
+.linkcolor {
+    color: black;
+}
+
+
+.background2 {
+    background-color: rgb(116, 36, 190);
+    margin-top: -100px;
+}
+
+
+
+.LinkToHarari {
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 600px;
+   
+    font-size: 55px;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+}
+
+
+.TheDeveloper {
+
+    height: 700px;
+    margin-left: 220px;
+    margin-top: 200px;
+
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+    box-shadow: 30px 30px 100px;
+
+    position: absolute;
+
+    transition-property: transform;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+
+
+
+.TheDevelopers {
+    width: 600px;
+    font-size: 60px;
+    position: relative;
+    
+    margin-left: 1370px;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to top, rgb(0, 0, 0), rgb(78, 78, 78));
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    box-shadow: 30px 30px 100px black;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-style: italic;
+    font-weight: bold;
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+
+
+.MyVideo {
+
+    width: 600px;
+    font-size: 60px;
+    position: relative;
+    
+    margin-left: 250px;
+    margin-top: 370px;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to top, rgb(255, 0, 0), rgb(85, 0, 0));
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 10px;
+    box-shadow: 30px 30px 100px black;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-style: italic;
+    font-weight: bold;
+
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+
+
+
+
+.QRCode {
+
+    position: absolute;
+    width: 600px;
+    margin-left: 1350px;
+    margin-top: -400px;
+}
+
+
+
+
+.background3 {
+    width: 2395px;
+    height: 950px;
+    background-color: rgb(88, 88, 88);
+    margin-top: 160px;
+    margin-left: -20px;
+    
+}
+
+
+.Bend {
+    position: relative;
+    margin-top: -1000px;
+    margin-left: 1250px;
+    padding-left: -100px;
+    height: 1200px;
+    width: auto;
+}
+
+.BriefBand {
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 600px;
+   
+    font-size: 55px;
+    margin-top: -1060px;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+.hello1 {
+    width: 2410px;
+    height: 100px;
+    background-color: rgb(232, 0, 108);
+    margin-top: -150px;
+    margin-left: -15px;
+
+    
+}
+
+
+.DevBackground {
+    width: 2395px;
+    height: 2100px;
+    background-color: rgb(52, 52, 52);
+    margin-top: -5px;
+    margin-left: -20px;
+}
+
+
+.name1 {
+    color: rgb(255, 255, 255);
+    font-size: 65px;
+    font-weight: bold;
+    position: relative;
+    font-style: italic;
+    margin-left: 830px;
+    margin-top: 600px;
+}
+
+
+
+
+.HTMLScreen {
+    
+    height: 800px;
+    margin-top: -1800px;
+    margin-left: 120px;
+    
+
+
+    
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+    box-shadow: 30px 30px 100px;
+
+    position: absolute;
+
+    transition-property: transform;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+.HowDidWedoThis {
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 600px;
+   
+    font-size: 55px;
+    margin-top: -1700px;
+    margin-left: 1450px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+
+.HowDidWedoThis1 {
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 600px;
+   
+    font-size: 55px;
+    margin-top: 370px;
+    margin-left: 1450px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+.BlenderScreen {
+    height: 700px;
+    margin-top: 260px;
+    margin-left: 120px;
+    
+
+    position: absolute;
+
+    transition-property: transform;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+
+
+
+.DevsBack {
+    background-color: rgb(52, 52, 52);
+}
+
+
+.HowDidWedoThis1:hover {
+    transform: translateY(-40px);
+}
+
+
+.BlenderScreen:hover {
+    transform: translateY(-40px);
+}
+
+
+.HowDidWedoThis:hover {
+    transform: translateY(-40px);
+}
+
+.HTMLScreen:hover {
+    transform: translateY(-40px);
+}
+
+
+.about:hover {
+    transform: translateY(-20px);
+}
+
+.TheDeveloper:hover {
+    transform: translateY(-50px);
+    
+}
+
+
+
+.TheDevelopers:hover {
+    transform: translateY(-20px);
+}
+
+
+
+.about:hover {
+    transform: translateY(-20px);
+}
+
+
+.MyVideo:hover {
+    transform: translateY(-20px);
+}
+
+.MyVideo1:hover {
+    transform: translateY(-20px);
+}
+
+
+.BriefBand:hover {
+    transform: translateY(-20px);
+}
+
+
+
+.BriefHarari:hover {
+    transform: translateY(-30px);
+
+}
+
+
+.BriefDorian:hover {
+    transform: translateX(50px);
+
+}
+
+
+
+
+
+
+
+
+
+

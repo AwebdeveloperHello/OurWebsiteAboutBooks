@@ -26,7 +26,7 @@
 .books {
     color: rgb(255, 255, 255);
     font-size: 50px;
-    margin-left: 300px;
+    margin-left: 320px;
     margin-top: -90px;
     position: relative;
     text-decoration: none;
@@ -37,10 +37,9 @@
     color: rgb(255, 255, 255);
     font-size: 50px;
     margin-left: 500px;
-    margin-top: -108px;
+    margin-top: -60px;
     position: relative;
     text-decoration: none;
-    padding-right: 60px;
     
 }
 
@@ -150,7 +149,7 @@ a {
     color: rgb(0, 0, 0);
     background-color: rgb(246, 251, 255);
     width: 600px;
-   
+    display: block;
     font-size: 55px;
     margin-top: 500px;
     margin-left: 1450px;
@@ -1011,6 +1010,223 @@ a {
 }
 
 
+
+
+
+
+
+
+@media (max-width: 620px) {
+    
+
+    .founders {
+        font-size: 40px;
+        margin-left: 385px;
+        margin-top: -45px;
+        
+    }
+
+
+    .books {
+        font-size: 40px;
+        margin-left: 250px;
+        margin-top: -70px;
+    }
+    
+    .hello {
+        width: 621px;
+        height: 85px;   
+    }
+    
+    .about {
+        width: 200px;
+        font-size: 30px;
+        margin-left: 250px;
+        margin-top: 95px;
+
+    }
+    
+    .name {
+        font-size: 30px;
+        margin-left: 30px;
+        
+    }
+    
+    .TheDevelopers {
+        width: 400px;
+        font-size: 40px;
+        margin-left: 900px;
+        margin-top: 60px;
+    
+
+    }
+
+    .MyVideo {
+        width: 390px;
+        font-size: 32px;
+        margin-left: 70px;
+        margin-top: 200px;
+        position: relative;
+    }
+
+
+
+    .TheDeveloper {
+        height: 300px;
+        margin-left: 60px;
+        margin-top: 130px;
+    }
+    
+    .QRCode {
+        position: absolute;
+        width: 300px;
+        margin-left: 140px;
+        margin-top: -510px;
+        position: absolute;
+    }
+    
+    
+    .hello1 {
+        width: 621px;
+        height: 30px;
+        margin-top: -300px;
+        margin-left: -15px;
+        
+    }
+    
+    .HTMLScreen {
+        height: 400px;
+        margin-top: -2000px;
+        margin-left: 40px;
+    }
+    
+    .HowDidWedoThis {
+        color: rgb(0, 0, 0);
+        background-color: rgb(246, 251, 255);
+        width: 470px;
+        font-size: 40px;
+        margin-top: -1450px;
+        margin-left: 50px;
+    }
+
+
+    .BlenderScreen {
+        height: 470px;
+        margin-top: 60px;
+        margin-left: 60px;
+
+    }
+
+
+
+    .HowDidWedoThis1 {
+        width: 470px;
+        font-size: 40px;
+        margin-top: 600px;
+        margin-left: 50px;
+
+    }
+
+    .name1 {
+        font-size: 30px;
+        margin-left: 100px;
+        margin-top: 400px;
+        visibility: hidden;
+    }
+
+
+    
+    .Dorian {
+        position: relative;
+        margin-top: -800px;
+        margin-left: -10px;
+        height: 700px;
+        
+    }
+
+
+    .BriefDorian {
+        width: 240px;
+        font-size: 30px;
+        margin-top: -590px;
+        margin-left: 40px;
+    
+    }
+
+
+
+    .BriefHarari {
+        width: 300px;
+        font-size: 30px;
+        margin-top: 150px;
+        margin-left: 300px;
+        position: relative;
+    }
+
+    .Harari1 {
+        height: 400px;
+        margin-top: -1400px;
+        margin-left: -20px;
+        margin-bottom: 200px;
+    }
+
+
+    .background {
+        width: 1550px;
+        height: 600px;
+        margin-top: 300px;
+        
+    }
+
+    .BriefBand {
+        width: 270px;
+        font-size: 30px;
+        margin-top: -600px;
+        margin-left: 5px;
+        position: relative;
+    }
+
+    .Bend {
+        position: relative;
+        margin-top: -740px;
+        margin-left: 240px;
+        height: 700px;
+        width: auto;
+    }
+
+
+    .background3 {
+        width: 1550px;
+        height: 600px;
+        background-color: rgb(88, 88, 88);
+        margin-top: 100px;
+        margin-left: -20px;
+        
+    }
+
+    .LinkToDorian {
+        
+        width: 420px;
+        font-size: 35px;
+        margin-top: -550px;
+        margin-left: 90px;
+    }
+
+
+    .LinkToHarari {
+        width: 420px;
+        font-size: 35px;
+        margin-left: 90px;
+    }
+    
+
+    .allballs {
+        visibility: hidden;
+    }
+
+   
+    
+}
 
 
 

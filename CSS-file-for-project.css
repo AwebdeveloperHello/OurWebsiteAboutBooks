@@ -634,6 +634,101 @@ a {
 
 
 @media (max-width: 2035px) {
+    
+    .about {
+        width: 500px;
+        font-size: 50px;
+        margin-left: 1000px;
+        margin-top: 210px;
+
+    }
+    
+    
+    
+    .TheDevelopers {
+        width: 500px;
+        font-size: 50px;
+        margin-left: 1000px;
+        margin-top: 60px;
+    
+
+    }
+
+    .MyVideo {
+        width: 500px;
+        font-size: 50px;
+        margin-left: 205px;
+        margin-top: 320px;
+    }
+
+
+
+    .TheDeveloper {
+        height: 550px;
+        margin-left: 200px;
+        margin-top: 180px;
+    }
+    
+    .QRCode {
+        position: absolute;
+        width: 440px;
+        margin-left: 1070px;
+        margin-top: -400px;
+    }
+    
+    
+    .hello1 {
+        width: 2100px;
+        height: 90px;
+        margin-top: -140px;
+        margin-left: -15px;
+    }
+    
+
+
+
+    .HTMLScreen {
+        height: 550px;
+        margin-top: -1920px;
+        margin-left: 100px;
+    }
+    
+    .HowDidWedoThis {
+        color: rgb(0, 0, 0);
+        background-color: rgb(246, 251, 255);
+        width: 550px;
+        font-size: 50px;
+        margin-top: -1880px;
+        margin-left: 1150px;
+    }
+
+
+    .BlenderScreen {
+        height: 580px;
+        margin-top: 260px;
+        margin-left: 100px;
+
+    }
+
+
+
+    .HowDidWedoThis1 {
+        width: 550px;
+        font-size: 50px;
+        margin-top: 370px;
+        margin-left: 1150px;
+
+    }
+
+    .name1 {
+        font-size: 60px;
+        margin-left: 685px;
+        margin-top: 520px;
+    }
+
+
+
+
     .hello {
         width: 1930px;
     
@@ -721,6 +816,101 @@ a {
 
 
 @media (max-width: 1550px) {
+    
+    
+    .about {
+        width: 400px;
+        font-size: 40px;
+        margin-left: 900px;
+        margin-top: 190px;
+
+    }
+    
+    
+    
+    .TheDevelopers {
+        width: 400px;
+        font-size: 40px;
+        margin-left: 900px;
+        margin-top: 60px;
+    
+
+    }
+
+    .MyVideo {
+        width: 420px;
+        font-size: 50px;
+        margin-left: 170px;
+        margin-top: 250px;
+    }
+
+
+
+    .TheDeveloper {
+        height: 520px;
+        margin-left: 140px;
+        margin-top: 130px;
+    }
+    
+    .QRCode {
+        position: absolute;
+        width: 360px;
+        margin-left: 900px;
+        margin-top: -370px;
+    }
+    
+    
+    .hello1 {
+        width: 2100px;
+        height: 90px;
+        margin-top: -135px;
+        margin-left: -15px;
+    }
+    
+
+
+
+    .HTMLScreen {
+        height: 470px;
+        margin-top: -2000px;
+        margin-left: 80px;
+    }
+    
+    .HowDidWedoThis {
+        color: rgb(0, 0, 0);
+        background-color: rgb(246, 251, 255);
+        width: 470px;
+        font-size: 40px;
+        margin-top: -1950px;
+        margin-left: 900px;
+    }
+
+
+    .BlenderScreen {
+        height: 470px;
+        margin-top: 100px;
+        margin-left: 60px;
+
+    }
+
+
+
+    .HowDidWedoThis1 {
+        width: 470px;
+        font-size: 40px;
+        margin-top: 170px;
+        margin-left: 900px;
+
+    }
+
+    .name1 {
+        font-size: 60px;
+        margin-left: 570px;
+        margin-top: 400px;
+    }
+
+
+    
     .Dorian {
         position: relative;
         margin-top: -840px;

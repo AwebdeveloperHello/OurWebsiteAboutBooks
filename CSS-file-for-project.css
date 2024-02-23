@@ -705,7 +705,98 @@ a {
 
 
 
+@media (max-width: 1550px) {
+    .Dorian {
+        position: relative;
+        margin-top: -1000px;
+        margin-left: 480px;
+        height: 900px;
+        
+    }
 
+
+    .BriefDorian {
+        width: 500px;
+        font-size: 40px;
+        margin-top: -700px;
+        margin-left: 150px;
+    
+    }
+
+
+    .firstball {
+        width: 700px;
+        height: 400px;
+        margin-left: 1250px;
+        display: inline;
+    }
+
+
+    .BriefHarari {
+        width: 400px;
+        font-size: 40px;
+        margin-top: 500px;
+        margin-left: 1300px;
+    
+    }
+
+    .Harari1 {
+        height: 850px;
+        margin-top: -850px;
+        margin-left: 70px;
+    
+    }
+
+
+    .background {
+        width: 2350px;
+        height: 900px;
+        
+    }
+
+    .BriefBand {
+        width: 550px;
+        font-size: 50px;
+        margin-top: -960px;
+        margin-left: 220px;
+    
+    }
+
+    .Bend {
+        position: relative;
+        margin-top: -950px;
+        margin-left: 1100px;
+        height: 1100px;
+        width: auto;
+    }
+
+
+    .background3 {
+        width: 2350px;
+        height: 900px;
+        background-color: rgb(88, 88, 88);
+        margin-top: 160px;
+        margin-left: -20px;
+        
+    }
+
+    .LinkToDorian {
+        
+        width: 420px;
+        font-size: 45px;
+        margin-top: -550px;
+        margin-left: 250px;
+    }
+
+
+    .LinkToHarari {
+        width: 430px;
+        font-size: 45px;
+        margin-left: 250px;
+    }
+    
+    
+}
 
 
 

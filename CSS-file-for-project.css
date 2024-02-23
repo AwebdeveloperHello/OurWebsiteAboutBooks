@@ -633,6 +633,56 @@ a {
 
 
 
+@media (max-width: 2035px) {
+    .Dorian {
+        position: relative;
+        margin-top: -1000px;
+        margin-left: 665px;
+        height: 1120px;
+        
+    }
+
+
+    .firstball {
+        width: 700px;
+        height: 400px;
+        margin-left: 1250px;
+        display: inline;
+    }
+
+
+    .BriefHarari {
+        width: 400px;
+        font-size: 40px;
+        margin-top: 500px;
+        margin-left: 1300px;
+    
+    }
+
+    .Harari1 {
+        height: 850px;
+        margin-top: -850px;
+        margin-left: 70px;
+    
+    }
+
+
+    .background {
+        width: 2350px;
+        height: 900px;
+        
+    }
+    
+}
+
+
+
+
+
+
+
+
+
 
 
 /* Hello everybody! Goodbye, yes! yes. I'm sad :( :( */

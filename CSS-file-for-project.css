@@ -634,11 +634,24 @@ a {
 
 
 @media (max-width: 2035px) {
+    .hello {
+        width: 1930px;
+    
+    }
+    
+    .BriefDorian {
+        width: 550px;
+        font-size: 50px;
+        margin-top: -860px;
+        margin-left: 150px;
+    
+    }
+    
     .Dorian {
         position: relative;
-        margin-top: -1000px;
+        margin-top: -1030px;
         margin-left: 675px;
-        height: 1120px;
+        height: 1150px;
         
     }
 
@@ -654,23 +667,23 @@ a {
     
 
     .BriefHarari {
-        width: 400px;
-        font-size: 40px;
-        margin-top: 500px;
-        margin-left: 1300px;
+        width: 530px;
+        font-size: 50px;
+        margin-top: 420px;
+        margin-left: 1250px;
     
     }
 
     .Harari1 {
         height: 850px;
-        margin-top: -850px;
+        margin-top: -960px;
         margin-left: 70px;
     
     }
 
 
     .background {
-        width: 2350px;
+        width: 1950px;
         height: 900px;
         
     }
@@ -693,7 +706,7 @@ a {
 
 
     .background3 {
-        width: 2350px;
+        width: 1900px;
         height: 900px;
         background-color: rgb(88, 88, 88);
         margin-top: 160px;

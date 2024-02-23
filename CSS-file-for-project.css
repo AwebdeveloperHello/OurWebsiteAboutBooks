@@ -637,7 +637,7 @@ a {
     .Dorian {
         position: relative;
         margin-top: -1000px;
-        margin-left: 665px;
+        margin-left: 675px;
         height: 1120px;
         
     }
@@ -672,6 +672,33 @@ a {
         height: 900px;
         
     }
+
+    .BriefBand {
+        width: 550px;
+        font-size: 50px;
+        margin-top: -960px;
+        margin-left: 220px;
+    
+    }
+
+    .Bend {
+        position: relative;
+        margin-top: -950px;
+        margin-left: 1100px;
+        height: 1100px;
+        width: auto;
+    }
+
+
+    .background3 {
+        width: 2350px;
+        height: 900px;
+        background-color: rgb(88, 88, 88);
+        margin-top: 160px;
+        margin-left: -20px;
+        
+    }
+    
     
 }
 

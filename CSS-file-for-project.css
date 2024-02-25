@@ -1,3 +1,30 @@
+#ButtonMore {
+    height: 100px;
+    width: 610px;
+    margin-left: 570px;
+    margin-top: 200px;
+    font-size: 60px;
+
+
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+
+
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+#Cooky {
+    width: 600px;
+    margin-left: 540px;
+    margin-top: 210px;
+}
+
+
 
 .hello {
     width: 2410px;
@@ -634,6 +661,7 @@ a {
 
 @media (max-width: 2035px) {
     
+    
     .about {
         width: 500px;
         font-size: 50px;
@@ -815,6 +843,35 @@ a {
 
 
 @media (max-width: 1550px) {
+    
+    #ButtonMore {
+        height: 100px;
+        width: 500px;
+        margin-left: 480px;
+        margin-top: 200px;
+        font-size: 55px;
+    
+    
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+    
+    
+    
+        font-style: italic;
+        font-weight: bold;
+    
+    }
+    
+    #Cooky {
+        width: 510px;
+        margin-left: 480px;
+        margin-top: 210px;
+    }
+    
+    
+    
     
     
     .about {
@@ -1018,7 +1075,34 @@ a {
 
 @media (max-width: 620px) {
     
-
+    #ButtonMore {
+        height: 100px;
+        width: 480px;
+        margin-left: 30px;
+        margin-top: 200px;
+        font-size: 50px;
+    
+    
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+    
+    
+    
+        font-style: italic;
+        font-weight: bold;
+    
+    }
+    
+    #Cooky {
+        width: 490px;
+        margin-left: 30px;
+        margin-top: 210px;
+    }
+    
+    
+    
     .founders {
         font-size: 40px;
         margin-left: 385px;

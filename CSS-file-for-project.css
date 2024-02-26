@@ -1,3 +1,21 @@
+#clock-container {
+    display: flex;
+}
+
+
+#clock {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 1600px;
+    margin-top: -55px;
+    position: relative;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+
+
+
 #ButtonMore {
     height: 100px;
     width: 610px;
@@ -843,6 +861,12 @@ a {
 
 
 @media (max-width: 1550px) {
+    #clock {
+        font-size: 46px;
+        margin-left: 1200px;
+    }
+    
+    
     
     #ButtonMore {
         height: 100px;
@@ -1074,6 +1098,9 @@ a {
 
 
 @media (max-width: 620px) {
+    #clock {
+     display: none;
+    }
     
     #ButtonMore {
         height: 100px;

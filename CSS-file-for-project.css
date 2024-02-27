@@ -437,10 +437,29 @@ a {
 }
 
 
+.background4 {
+    width: 2395px;
+    height: 1300px;
+    background-color: rgb(24, 24, 24);
+    margin-top: 73px;
+    margin-left: -20px;
+    
+}
+
+
 .Bend {
     position: relative;
     margin-top: -1000px;
     margin-left: 1250px;
+    padding-left: -100px;
+    height: 1200px;
+    width: auto;
+}
+
+.ItClown {
+    position: relative;
+    margin-top: -1300px;
+    margin-left: 1100px;
     padding-left: -100px;
     height: 1200px;
     width: auto;
@@ -452,7 +471,7 @@ a {
     width: 600px;
    
     font-size: 55px;
-    margin-top: -1060px;
+    margin-top: -1063px;
     margin-left: 300px;
     padding-left: 20px;
     padding-top: 10px;
@@ -472,6 +491,33 @@ a {
     transition-timing-function: ease;
     transition-delay: 0s;
 
+}
+
+.BriefClown {
+    color: rgb(0, 0, 0);
+    background-color: rgb(246, 251, 255);
+    width: 600px;
+   
+    font-size: 55px;
+    margin-top: -1063px;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font-weight: bold;
+    font-style: italic;
+    box-shadow: 30px 30px 100px;
+
+
+    transition-property: transform;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
 }
 
 
@@ -665,6 +711,10 @@ a {
     transform: translateY(-20px);
 }
 
+.BriefClown:hover {
+    transform: translateY(-20px);
+}
+
 
 
 .BriefHarari:hover {
@@ -834,9 +884,25 @@ a {
     .BriefBand {
         width: 550px;
         font-size: 50px;
-        margin-top: -960px;
+        margin-top: -963px;
         margin-left: 220px;
     
+    }
+
+    .BriefClown {
+        width: 550px;
+        font-size: 50px;
+        margin-top: -970px;
+        margin-left: 120px;
+    
+    }
+
+    #BriefClown1 {
+        position: relative;
+        margin-top: -1060px;
+        margin-left: 770px;
+        height: 1100px;
+        width: auto;
     }
 
     .Bend {
@@ -853,6 +919,14 @@ a {
         height: 900px;
         background-color: rgb(88, 88, 88);
         margin-top: 160px;
+        margin-left: -20px;
+        
+    }
+
+    .background4 {
+        width: 1900px;
+        height: 1100px;
+        margin-top: 140px;
         margin-left: -20px;
         
     }
@@ -1052,9 +1126,26 @@ a {
     .BriefBand {
         width: 450px;
         font-size: 40px;
-        margin-top: -720px;
+        margin-top: -722px;
         margin-left: 150px;
     
+    }
+
+
+    .BriefClown {
+        width: 450px;
+        font-size: 40px;
+        margin-top: -830px;
+        margin-left: 70px;
+    
+    }
+
+    #BriefClown1 {
+        position: relative;
+        margin-top: -890px;
+        margin-left: 600px;
+        height: 900px;
+        width: auto;
     }
 
     .Bend {
@@ -1071,6 +1162,14 @@ a {
         height: 650px;
         background-color: rgb(88, 88, 88);
         margin-top: 160px;
+        margin-left: -20px;
+        
+    }
+
+    .background4 {
+        width: 1550px;
+        height: 900px;
+        margin-top: 70px;
         margin-left: -20px;
         
     }
@@ -1286,7 +1385,7 @@ a {
 
 
     .background {
-        width: 1550px;
+        width: 621px;
         height: 600px;
         margin-top: 300px;
         
@@ -1310,10 +1409,18 @@ a {
 
 
     .background3 {
-        width: 1550px;
+        width: 621px;
         height: 600px;
         background-color: rgb(88, 88, 88);
         margin-top: 100px;
+        margin-left: -20px;
+        
+    }
+
+    .background4 {
+        width: 621px;
+        height: 600px;
+        margin-top: -10px;
         margin-left: -20px;
         
     }

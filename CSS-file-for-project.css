@@ -1281,7 +1281,7 @@ a {
 
 
 
-@media (max-width: 620px) {
+@media (max-width: 600px) {
     .audio1 {
         display: none;
     }
@@ -1328,17 +1328,17 @@ a {
     
     
     .founders {
-        font-size: 40px;
-        margin-left: 385px;
-        margin-top: -45px;
+        font-size: 35px;
+        margin-left: 400px;
+        margin-top: -38px;
         
     }
 
 
     .books {
-        font-size: 40px;
-        margin-left: 250px;
-        margin-top: -70px;
+        font-size: 35px;
+        margin-left: 270px;
+        margin-top: -68px;
     }
     
     .hello {
@@ -1361,11 +1361,11 @@ a {
     }
     
     .TheDevelopers {
-        width: 400px;
-        font-size: 40px;
-        margin-left: 900px;
-        margin-top: 60px;
-    
+        width: 170px;
+        font-size: 30px;
+        margin-left: 100px;
+        margin-top: -20px;
+        visibility: hidden;
 
     }
 
@@ -1515,7 +1515,7 @@ a {
     .background4 {
         width: 621px;
         height: 600px;
-        margin-top: -10px;
+        margin-top: -12px;
         margin-left: -20px;
         
     }
@@ -1533,6 +1533,22 @@ a {
         width: 420px;
         font-size: 35px;
         margin-left: 90px;
+    }
+
+
+    .BriefClown {
+        width: 280px;
+        font-size: 27px;
+        margin-top: -575px;
+        margin-left: 5px;
+        position: relative;
+    }
+
+    .ItClown {
+        position: relative;
+        margin-top: -800px;
+        margin-left: -10px;
+        width: 400px;
     }
     
 

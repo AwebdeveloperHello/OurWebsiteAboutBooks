@@ -1,5 +1,48 @@
 /* Css code for all website! */
 
+.audio1 {
+    margin-top: 55px;
+    margin-left: 1550px;
+    position: absolute;
+    box-shadow: 30px 30px 100px;
+}
+
+.audio2 {
+    margin-top: 60px;
+    margin-left: 1000px;
+    position: absolute;
+    box-shadow: 30px 30px 100px;
+
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+
+}
+
+.audio3 {
+    margin-top: 140px;
+    margin-left: 1000px;
+    position: absolute;
+    box-shadow: 30px 30px 100px;
+
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+
+}
+
+.audio4 {
+    margin-top: 140px;
+    margin-left: 1550px;
+    position: absolute;
+    box-shadow: 30px 30px 100px;
+}
+
+
 #clock-container {
     display: flex;
 }
@@ -943,8 +986,47 @@ a {
         margin-left: 1200px;
     }
     
+    .audio1 {
+        margin-top: 35px;
+        margin-left: 900px;
+        position: absolute;
+        box-shadow: 30px 30px 100px;
+    }
+
+    .audio4 {
+        margin-top: 120px;
+        margin-left: 900px;
+        position: absolute;
+        box-shadow: 30px 30px 100px;
+    }
+    
+    .audio2 {
+        margin-top: 60px;
+        margin-left: 720px;
+        position: absolute;
+        box-shadow: 30px 30px 100px;
+    
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+
+    .audio3 {
+        margin-top: 140px;
+        margin-left: 720px;
+        position: absolute;
+        box-shadow: 30px 30px 100px;
+    
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-top-right-radius: 20px;
     
     
+    }
+
+
     #ButtonMore {
         height: 100px;
         width: 500px;
@@ -1198,8 +1280,20 @@ a {
 
 
 
-
 @media (max-width: 620px) {
+    .audio1 {
+        display: none;
+    }
+    .audio2 {
+        display: none;
+    }
+    .audio3 {
+        display: none;
+    }
+    .audio4 {
+        display: none;
+    }
+    
     #clock {
      display: none;
     }

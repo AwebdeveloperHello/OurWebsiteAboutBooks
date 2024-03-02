@@ -1302,7 +1302,7 @@ a {
     #ButtonMore {
         height: 100px;
         width: 480px;
-        margin-left: 30px;
+        margin-left: 38px;
         margin-top: 200px;
         font-size: 50px;
     
@@ -1321,7 +1321,7 @@ a {
     
     #Cooky {
         width: 490px;
-        margin-left: 30px;
+        margin-left: 32px;
         margin-top: 210px;
     }
     
@@ -1372,8 +1372,8 @@ a {
     .MyVideo {
         width: 390px;
         font-size: 32px;
-        margin-left: 70px;
-        margin-top: 200px;
+        margin-left: 73px;
+        margin-top: 240px;
         position: relative;
     }
 
@@ -1454,9 +1454,9 @@ a {
 
 
     .BriefDorian {
-        width: 240px;
+        width: 270px;
         font-size: 30px;
-        margin-top: -590px;
+        margin-top: -650px;
         margin-left: 40px;
     
     }
@@ -1489,7 +1489,7 @@ a {
     .BriefBand {
         width: 270px;
         font-size: 30px;
-        margin-top: -600px;
+        margin-top: -650px;
         margin-left: 5px;
         position: relative;
     }
@@ -1514,8 +1514,8 @@ a {
 
     .background4 {
         width: 621px;
-        height: 600px;
-        margin-top: -12px;
+        height: 850px;
+        margin-top: -53px;
         margin-left: -20px;
         
     }
@@ -1539,22 +1539,24 @@ a {
     .BriefClown {
         width: 280px;
         font-size: 27px;
-        margin-top: -575px;
-        margin-left: 5px;
+        margin-top: -750px;
+        margin-left: 10px;
         position: relative;
     }
 
-    .ItClown {
+    #BriefClown1 {
         position: relative;
-        margin-top: -800px;
-        margin-left: -10px;
+        margin-top: -1100px;
+        margin-left: 165px;
         width: 400px;
+        height: auto;
     }
     
 
     .allballs {
         visibility: hidden;
     }
+
 
    
     

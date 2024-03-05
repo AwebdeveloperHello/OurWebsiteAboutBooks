@@ -12,3 +12,19 @@ function updateClock() {
 
 updateClock();
 setInterval(updateClock, 10);
+
+/* Change the background code */
+
+
+
+const Button5 = document.getElementById("ChangeBack")
+const Fone = document.getElementById("BackGroundMain")
+
+Button5.addEventListener("click", event => {
+    if(Fone.style.backgroundColor === "white") {
+        Fone.style.backgroundColor = "rgb(48, 48, 48)";
+    } else {
+        Fone.style.backgroundColor = "white";
+    }
+
+});

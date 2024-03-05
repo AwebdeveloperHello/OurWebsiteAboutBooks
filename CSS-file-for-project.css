@@ -1,6 +1,24 @@
 /* Css code for all website! */
 
 
+#ChangeBack {
+    color: rgb(0, 0, 0);
+    font-size: 47px;
+    margin-left: 50px;
+    margin-top: 60px;
+    position: absolute;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(255, 255, 255);
+
+
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+
 .audio1 {
     margin-top: 55px;
     margin-left: 1550px;
@@ -1282,6 +1300,10 @@ a {
 
 
 @media (max-width: 600px) {
+    #ChangeBack {
+        display: none;
+    }
+    
     .audio1 {
         display: none;
     }

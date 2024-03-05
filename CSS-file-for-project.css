@@ -203,9 +203,9 @@ a {
 .Dorian {
     position: relative;
     margin-top: -1100px;
-    margin-left: 1100px;
+    margin-left: 1700px;
     padding-left: -100px;
-    height: 1200px;
+    height: 800px;
     width: auto;
 }
 
@@ -887,8 +887,8 @@ a {
     .Dorian {
         position: relative;
         margin-top: -1030px;
-        margin-left: 675px;
-        height: 1150px;
+        margin-left: 900px;
+        height: 900px;
         
     }
 
@@ -1154,8 +1154,8 @@ a {
     .Dorian {
         position: relative;
         margin-top: -840px;
-        margin-left: 480px;
-        height: 900px;
+        margin-left: 800px;
+        height: 800px;
         
     }
 
@@ -1446,9 +1446,9 @@ a {
     
     .Dorian {
         position: relative;
-        margin-top: -800px;
-        margin-left: -10px;
-        height: 700px;
+        margin-top: -1000px;
+        margin-left: 220px;
+        height: 500px;
         
     }
 
@@ -1456,7 +1456,7 @@ a {
     .BriefDorian {
         width: 270px;
         font-size: 30px;
-        margin-top: -650px;
+        margin-top: -570px;
         margin-left: 40px;
     
     }
@@ -1473,7 +1473,7 @@ a {
 
     .Harari1 {
         height: 400px;
-        margin-top: -1400px;
+        margin-top: -1200px;
         margin-left: -20px;
         margin-bottom: 200px;
     }
@@ -1546,9 +1546,10 @@ a {
 
     #BriefClown1 {
         position: relative;
-        margin-top: -1100px;
-        margin-left: 165px;
-        width: 400px;
+        margin-top: -1400px;
+        margin-bottom: 10px;
+        margin-left: 150px;
+        width: 600px;
         height: auto;
     }
     

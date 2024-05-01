@@ -13,19 +13,22 @@ function updateClock() {
 updateClock();
 setInterval(updateClock, 10);
 
-/* Change the background code */
+// Change backgound color button.
 
 
+const button = document.getElementById('ChangeBack');
+const body = document.getElementById('BackGroundMain');  
+const storedColor = localStorage.getItem('backgroundColor');
 
-const Button5 = document.getElementById("ChangeBack")
-const Fone = document.getElementById("BackGroundMain")
+    
+if (storedColor) {
+    body.style.backgroundColor = storedColor;
+}
 
-Button5.addEventListener("click", event => {
-    if(Fone.style.backgroundColor === "white") {
-        Fone.style.backgroundColor = "rgb(48, 48, 48)";
-    } else {
-        Fone.style.backgroundColor = "white";
-    }
+button.addEventListener('click', () => {
+    const currentColor = body.style.backgroundColor;
+    const newColor = currentColor === 'white' ? 'rgb(48, 48, 48)' : 'white';
 
+    body.style.backgroundColor = newColor;
+    localStorage.setItem('backgroundColor', newColor); // Save the new color
 });
-

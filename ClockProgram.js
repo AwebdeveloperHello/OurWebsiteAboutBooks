@@ -33,3 +33,20 @@ button.addEventListener('click', () => {
     body.style.backgroundColor = newColor;
     localStorage.setItem('backgroundColor', newColor); // Save the new color
 });
+
+
+// Pause audio files
+
+const audioElements = document.querySelectorAll('audio');
+
+audioElements.forEach(audio => {
+  audio.addEventListener('play', () => {
+    audioElements.forEach(otherAudio => {
+      if (otherAudio !== audio) {
+        otherAudio.pause();
+      }
+    });
+  });
+});
+
+

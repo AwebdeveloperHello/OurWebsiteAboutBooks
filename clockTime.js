@@ -13,3 +13,14 @@ function updateClock() {
 updateClock();
 setInterval(updateClock, 10);
 
+// Rotating circle
+
+let angle = 0;
+
+const div = document.getElementById("Cube");
+window.setInterval(rotate, 20);
+
+function rotate() {
+    div.style.transform = `rotate(${angle}deg)`;
+    angle += 1;
+}

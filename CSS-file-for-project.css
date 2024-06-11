@@ -1,5 +1,11 @@
 /* Css code for all website! */
 
+::selection {
+    background: rgb(255, 0, 251);
+    color: rgb(25, 25, 25);
+}
+
+
 #Cube {
     width: 45px;
     height: 45px;
